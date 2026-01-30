@@ -15,10 +15,9 @@ This app makes sharing documents a breeze. It uses your phone's camera to instan
 
 ## � Screenshots
 
-|   |   |
-|:---:|:---:|
-| <img src="outputs/op01.jpeg" width="300" /> | <img src="outputs/op02.jpeg" width="300" /> |
-| <img src="outputs/op03.jpeg" width="300" /> | <img src="outputs/op04.jpeg" width="300" /> |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="outputs/op01.jpeg" width="200" /> | <img src="outputs/op02.jpeg" width="200" /> | <img src="outputs/op03.jpeg" width="200" /> | <img src="outputs/op04.jpeg" width="200" /> |
 
 <br/>
 
