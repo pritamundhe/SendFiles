@@ -13,7 +13,16 @@ This app makes sharing documents a breeze. It uses your phone's camera to instan
 *   **Privacy First**: All scanning happens **on-device**. No data is sent to external servers for processing.
 *   **User Friendly**: Simple, clean interface with a focus on speed.
 
-## 📥 Download the App
+## � Screenshots
+
+|   |   |
+|:---:|:---:|
+| <img src="outputs/op01.jpeg" width="300" /> | <img src="outputs/op02.jpeg" width="300" /> |
+| <img src="outputs/op03.jpeg" width="300" /> | <img src="outputs/op04.jpeg" width="300" /> |
+
+<br/>
+
+## �📥 Download the App
 
 You can download the latest build directly from Expo:
 **[Download APK Here](https://expo.dev/accounts/pritamundhe/projects/HelloWorldAppApp/builds/3959f54c-0f5f-4ce5-9aae-5362fe1ca25a)**
